@@ -1,0 +1,10 @@
+[
+    {"Name":"Herkules","Tier":"6","Rang":"4","PowerIndex":"27433","Awake":"1","Klasse":"Kosmos","Image":"219"}
+    ,{"Name":"Gambit","Tier":"7","Rang":"1","PowerIndex":"22907","Awake":"0","Klasse":"Mutant","Image":"039"}
+    ,{"Name":"Yondu","Tier":"6","Rang":"4","PowerIndex":"21629","Awake":"1","Klasse":"Technologie","Image":"138"}
+    ,{"Name":"Falcon","Tier":"7","Rang":"1","PowerIndex":"20893","Awake":"0","Klasse":"Talent","Image":"006"}
+    ,{"Name":"Doktor Doom","Tier":"6","Rang":"4","PowerIndex":"20816","Awake":"1","Klasse":"Mystisch","Image":"164"}
+    ,{"Name":"Kingpin","Tier":"6","Rang":"3","PowerIndex":"17774","Awake":"1","Klasse":"Talent","Image":"024"}
+    ,{"Name":"Tigra","Tier":"6","Rang":"2","PowerIndex":"14868","Awake":"1","Klasse":"Mystisch","Image":"182"}
+    ,{"Name":"Venom die Ente","Tier":"6","Rang":"1","PowerIndex":"10210","Awake":"1","Klasse":"Kosmos","Image":"150"}
+]
