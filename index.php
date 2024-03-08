@@ -4,7 +4,7 @@
         <meta charset="UTF-8">  
         <title>Squad</title>       
     </head>
-    <body style="background-color:#000;color:lightGrey;">
+    <body style="background-color:#000;color:lightGrey;font-family: Verdana, sans-serif;padding:8px;margin:0px;">
         <div id="root"></div>
         
         <?php            
