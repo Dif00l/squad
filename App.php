@@ -20,7 +20,7 @@
 
     /* Initial */
     React.useEffect(() => {
-      fetch('./data/champions.json')
+      fetch('./data/champions.json?version='+Math.floor(Math.random() * 100) + 1)
         .then((response) => response.json())
         .then(function(json){
             setChampions(json)    
@@ -33,13 +33,17 @@
 
     return (    
         <div className="App">
+          <table>
+          <tbody>
         {
           Champions.map((c,i)=>{
             return(
-              <div key={"champion_"+i}>{c.Name}</div>
+              <tr><td key={"champion_"+i}>{c.Name}</td><td>{c.Klasse}</td></tr>
             )
           })
-        }          
+        }    
+        </tbody>
+        </table>      
         </div>
       )
 
